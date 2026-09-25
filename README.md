@@ -26,6 +26,10 @@
 ## 项目状态
 
 这是一个正在迭代中的个人项目。当前版本跑通了「输入简历 → AI 诊断 → 输出报告」的核心链路。
+<img width="937" height="742" alt="image" src="https://github.com/user-attachments/assets/c4f45fb4-5b03-4783-b443-11742a1180a2" />
+<img width="917" height="787" alt="image" src="https://github.com/user-attachments/assets/c34f72dd-293a-48d5-b54d-c8cf298778ab" />
+<img width="1055" height="846" alt="image" src="https://github.com/user-attachments/assets/489447a6-9d15-4fba-941b-e6c9788671cc" />
+![Uploading image.png…]()
 
 ## 后续计划
 
