@@ -5,7 +5,7 @@ const OpenAI = require('openai');
 
 // ============ 配置 DeepSeek API ============
 const client = new OpenAI({
-  apiKey: 'sk-8207e2d55be8491783d0955bee458597',  // ← 换成你自己的 Key
+  apiKey: 'apiKey: '在这里填你的DeepSeekAPIKey' ',  // ← 换成你自己的 Key
   baseURL: 'https://api.deepseek.com/v1'
 });
 
