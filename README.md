@@ -29,7 +29,8 @@
 <img width="937" height="742" alt="image" src="https://github.com/user-attachments/assets/c4f45fb4-5b03-4783-b443-11742a1180a2" />
 <img width="917" height="787" alt="image" src="https://github.com/user-attachments/assets/c34f72dd-293a-48d5-b54d-c8cf298778ab" />
 <img width="1055" height="846" alt="image" src="https://github.com/user-attachments/assets/489447a6-9d15-4fba-941b-e6c9788671cc" />
-![Uploading image.png…]()
+<img width="1046" height="352" alt="image" src="https://github.com/user-attachments/assets/1359c036-dc7a-425e-a28d-6919ce86d14c" />
+
 
 ## 后续计划
 
